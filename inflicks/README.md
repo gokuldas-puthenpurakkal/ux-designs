@@ -1,1 +1,1 @@
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/Home – 1.png)
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/Home01.png)
