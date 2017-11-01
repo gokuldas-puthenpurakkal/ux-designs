@@ -1,18 +1,18 @@
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/01-SplashScreen.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/02-HomeScreen.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/03-Search.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/04-Search Suggestions.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/05-SearchResults.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/06-Product Detail.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/07-Cart.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/08-Checkout.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/09-OrderPlaced.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/10-OrderDetails.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/11-MyOrders.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/12-Navigation Drawer.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/13-Rate.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/14-Filters.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/15-MyFavorites.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/16-Payment Information.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/17-Addresses.png)
-![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/18-Location.png)
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/01-SplashScreen.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/02-HomeScreen.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/03-Search.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/04-Search Suggestions.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/05-SearchResults.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/06-Product Detail.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/07-Cart.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/08-Checkout.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/09-OrderPlaced.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/10-OrderDetails.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/11-MyOrders.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/12-Navigation Drawer.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/13-Rate.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/14-Filters.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/15-MyFavorites.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/16-Payment Information.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/17-Addresses.png);
+![ScreenShot](https://raw.github.com/gokuldas-puthenpurakkal/ux-designs/master/inflicks/18-Location.png);
